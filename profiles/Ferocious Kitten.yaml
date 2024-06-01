@@ -1,0 +1,19 @@
+id: intrusion-set--6566aac9-dad8-4332-ae73-20c23bad7f02
+created: '2021-09-28T17:41:12.950Z'
+modified: '2021-10-25T14:28:10.337Z'
+name: Ferocious Kitten
+aliases:
+- Ferocious Kitten
+motivations: []
+target sectors: []
+descriptions: '[Ferocious Kitten](https://attack.mitre.org/groups/G0137) is a threat
+  group that has primarily targeted Persian-speaking individuals in Iran since at
+  least 2015.(Citation: Kaspersky Ferocious Kitten Jun 2021)'
+external references:
+- external_id: G0137
+  source_name: mitre-attack
+  url: https://attack.mitre.org/groups/G0137
+- source_name: Kaspersky Ferocious Kitten Jun 2021
+  url: https://securelist.com/ferocious-kitten-6-years-of-covert-surveillance-in-iran/102806/
+  description: 'GReAT. (2021, June 16). Ferocious Kitten: 6 Years of Covert Surveillance
+    in Iran. Retrieved September 22, 2021.'

@@ -1,0 +1,12 @@
+id: intrusion-set--9559ecaf-2e75-48a7-aee8-9974020bc772
+created: '2017-05-31T21:32:07.928Z'
+modified: '2018-10-17T00:17:13.469Z'
+name: MONSOON
+aliases: []
+motivations: []
+target sectors: []
+descriptions: ''
+external references:
+- source_name: mitre-attack
+  url: https://attack.mitre.org/groups/G0042
+  external_id: G0042

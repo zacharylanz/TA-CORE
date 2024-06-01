@@ -1,0 +1,32 @@
+id: intrusion-set--6eded342-33e5-4451-b6b2-e1c62863129f
+created: '2021-12-26T23:11:39.442Z'
+modified: '2023-09-22T20:43:16.504Z'
+name: Confucius
+aliases:
+- Confucius
+- Confucius APT
+motivations: []
+target sectors: []
+descriptions: '[Confucius](https://attack.mitre.org/groups/G0142) is a cyber espionage
+  group that has primarily targeted military personnel, high-profile personalities,
+  business persons, and government organizations in South Asia since at least 2013.
+  Security researchers have noted similarities between [Confucius](https://attack.mitre.org/groups/G0142)
+  and [Patchwork](https://attack.mitre.org/groups/G0040), particularly in their respective
+  custom malware code and targets.(Citation: TrendMicro Confucius APT Feb 2018)(Citation:
+  TrendMicro Confucius APT Aug 2021)(Citation: Uptycs Confucius APT Jan 2021)'
+external references:
+- source_name: mitre-attack
+  url: https://attack.mitre.org/groups/G0142
+  external_id: G0142
+- source_name: TrendMicro Confucius APT Feb 2018
+  description: 'Lunghi, D and Horejsi, J. (2018, February 13). Deciphering Confucius:
+    A Look at the Group''s Cyberespionage Operations. Retrieved December 26, 2021.'
+  url: https://www.trendmicro.com/en_us/research/18/b/deciphering-confucius-cyberespionage-operations.html
+- source_name: TrendMicro Confucius APT Aug 2021
+  description: Lunghi, D. (2021, August 17). Confucius Uses Pegasus Spyware-related
+    Lures to Target Pakistani Military. Retrieved December 26, 2021.
+  url: https://www.trendmicro.com/en_us/research/21/h/confucius-uses-pegasus-spyware-related-lures-to-target-pakistani.html
+- source_name: Uptycs Confucius APT Jan 2021
+  description: Uptycs Threat Research Team. (2021, January 12). Confucius APT deploys
+    Warzone RAT. Retrieved December 17, 2021.
+  url: https://www.uptycs.com/blog/confucius-apt-deploys-warzone-rat

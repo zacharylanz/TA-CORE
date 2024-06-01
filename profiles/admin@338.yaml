@@ -1,0 +1,24 @@
+id: intrusion-set--16ade1aa-0ea1-4bb7-88cc-9079df2ae756
+created: '2017-05-31T21:31:53.579Z'
+modified: '2020-03-18T19:54:59.120Z'
+name: admin@338
+aliases:
+- admin@338
+motivations: []
+target sectors: []
+descriptions: '[admin@338](https://attack.mitre.org/groups/G0018) is a China-based
+  cyber threat group. It has previously used newsworthy events as lures to deliver
+  malware and has primarily targeted organizations involved in financial, economic,
+  and trade policy, typically using publicly available RATs such as [PoisonIvy](https://attack.mitre.org/software/S0012),
+  as well as some non-public backdoors. (Citation: FireEye admin@338)'
+external references:
+- source_name: mitre-attack
+  url: https://attack.mitre.org/groups/G0018
+  external_id: G0018
+- source_name: admin@338
+  description: '(Citation: FireEye admin@338)'
+- source_name: FireEye admin@338
+  description: FireEye Threat Intelligence. (2015, December 1). China-based Cyber
+    Threat Group Uses Dropbox for Malware Communications and Targets Hong Kong Media
+    Outlets. Retrieved December 4, 2015.
+  url: https://www.fireeye.com/blog/threat-research/2015/11/china-based-threat.html

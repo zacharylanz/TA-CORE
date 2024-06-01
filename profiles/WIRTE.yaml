@@ -1,0 +1,28 @@
+id: intrusion-set--f8cb7b36-62ef-4488-8a6d-a7033e3271c1
+created: '2019-05-24T17:02:44.226Z'
+modified: '2022-04-15T19:50:19.478Z'
+name: WIRTE
+aliases:
+- WIRTE
+motivations: []
+target sectors: []
+descriptions: '[WIRTE](https://attack.mitre.org/groups/G0090) is a threat group that
+  has been active since at least August 2018. [WIRTE](https://attack.mitre.org/groups/G0090)
+  has targeted government, diplomatic, financial, military, legal, and technology
+  organizations in the Middle East and Europe.(Citation: Lab52 WIRTE Apr 2019)(Citation:
+  Kaspersky WIRTE November 2021)'
+external references:
+- source_name: mitre-attack
+  external_id: G0090
+  url: https://attack.mitre.org/groups/G0090
+- source_name: WIRTE
+  description: '(Citation: Lab52 WIRTE Apr 2019)'
+- source_name: Lab52 WIRTE Apr 2019
+  url: https://lab52.io/blog/wirte-group-attacking-the-middle-east/
+  description: S2 Grupo. (2019, April 2). WIRTE Group attacking the Middle East. Retrieved
+    May 24, 2019.
+- source_name: Kaspersky WIRTE November 2021
+  url: https://securelist.com/wirtes-campaign-in-the-middle-east-living-off-the-land-since-at-least-2019/105044
+  description: "Yamout, M. (2021, November 29). WIRTE\u2019s campaign in the Middle\
+    \ East \u2018living off the land\u2019 since at least 2019. Retrieved February\
+    \ 1, 2022."

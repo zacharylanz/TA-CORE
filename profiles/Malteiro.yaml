@@ -1,0 +1,22 @@
+id: intrusion-set--bf668120-e9a6-4017-a014-bfc0f5232656
+created: '2024-03-13T20:23:54.698Z'
+modified: '2024-03-29T14:10:35.711Z'
+name: Malteiro
+aliases:
+- Malteiro
+motivations: []
+target sectors: []
+descriptions: '[Malteiro](https://attack.mitre.org/groups/G1026) is a financially
+  motivated criminal group that is likely based in Brazil and has been active since
+  at least November 2019. The group operates and distributes the [Mispadu](https://attack.mitre.org/software/S1122)  banking
+  trojan via a Malware-as-a-Service (MaaS) business model. [Malteiro](https://attack.mitre.org/groups/G1026)
+  mainly targets victims throughout Latin America (particularly Mexico) and Europe
+  (particularly Spain and Portugal).(Citation: SCILabs Malteiro 2021)'
+external references:
+- source_name: mitre-attack
+  url: https://attack.mitre.org/groups/G1026
+  external_id: G1026
+- source_name: SCILabs Malteiro 2021
+  description: SCILabs. (2021, December 23). Cyber Threat Profile Malteiro. Retrieved
+    March 13, 2024.
+  url: https://blog.scilabs.mx/en/cyber-threat-profile-malteiro/

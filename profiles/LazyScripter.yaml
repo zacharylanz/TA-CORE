@@ -1,0 +1,21 @@
+id: intrusion-set--abc5a1d4-f0dc-49d1-88a1-4a80e478bb03
+created: '2021-11-24T19:26:27.305Z'
+modified: '2023-03-22T04:49:29.731Z'
+name: LazyScripter
+aliases:
+- LazyScripter
+motivations: []
+target sectors: []
+descriptions: '[LazyScripter](https://attack.mitre.org/groups/G0140) is threat group
+  that has mainly targeted the airlines industry since at least 2018, primarily using
+  open-source toolsets.(Citation: MalwareBytes LazyScripter Feb 2021)'
+external references:
+- source_name: mitre-attack
+  url: https://attack.mitre.org/groups/G0140
+  external_id: G0140
+- source_name: LazyScripter
+  description: '(Citation: MalwareBytes LazyScripter Feb 2021)'
+- source_name: MalwareBytes LazyScripter Feb 2021
+  description: 'Jazi, H. (2021, February). LazyScripter: From Empire to double RAT.
+    Retrieved November 24, 2021.'
+  url: https://www.malwarebytes.com/resources/files/2021/02/lazyscripter.pdf

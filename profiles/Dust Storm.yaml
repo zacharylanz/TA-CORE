@@ -1,0 +1,21 @@
+id: intrusion-set--ae41895a-243f-4a65-b99b-d85022326c31
+created: '2017-05-31T21:32:03.306Z'
+modified: '2022-09-29T21:28:39.974Z'
+name: Dust Storm
+aliases:
+- Dust Storm
+motivations: []
+target sectors: []
+descriptions: '[Dust Storm](https://attack.mitre.org/groups/G0031) is a threat group
+  that has targeted multiple industries in Japan, South Korea, the United States,
+  Europe, and several Southeast Asian countries. (Citation: Cylance Dust Storm)'
+external references:
+- source_name: mitre-attack
+  url: https://attack.mitre.org/groups/G0031
+  external_id: G0031
+- source_name: Dust Storm
+  description: '(Citation: Cylance Dust Storm)'
+- source_name: Cylance Dust Storm
+  description: Gross, J. (2016, February 23). Operation Dust Storm. Retrieved December
+    22, 2021.
+  url: https://s7d2.scene7.com/is/content/cylance/prod/cylance-web/en-us/resources/knowledge-center/resource-library/reports/Op_Dust_Storm_Report.pdf
